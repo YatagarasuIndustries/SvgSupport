@@ -1,6 +1,5 @@
 # SvgSupport
-Simple plugin that allows uploading SVG files to your WordPress media library (and using them).
-
+Simple plugin that allows uploading SVG files to your WordPress media library (and using them).\
 Sanitizes the SVGs when uploading for security measures.
 
 ### Usage:
