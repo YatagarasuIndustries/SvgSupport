@@ -4,7 +4,7 @@ Simple plugin that allows uploading SVG files to your WordPress media library (a
 Sanitizes the SVGs when uploading for security measures.
 
 ### Usage:
-1. Download ZIP
+1. Download ZIP from Releases
 2. Add Plugin to WordPress
 3. Activate
 4. Upload SVGs to your heart's content
